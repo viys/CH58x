@@ -1,0 +1,3 @@
+[submodule "CH582M"]
+	path = CH582M
+	url = git@github.com:viys/ch582m.git
